@@ -6,6 +6,13 @@ text-align:center;
 background-color:purple;
 color:white;
 }
+h2
+{
+font-family:'Fredoka One', cursive;
+text-align:center;
+background-color:rgb(33, 221, 9);
+color:rgb(250, 18, 192);
+}
 body
 {
 background-image:url("fondo.jpg");
